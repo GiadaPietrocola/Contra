@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/icon.ico</file>
+	<file>sprites/Jungle.png</file>
+	<file>sprites/Bill.png</file>
+	<file>sprites/Title.png</file>
+	<file>sprites/Fonts.png</file>
+	<file>sprites/Bullet.png</file>
+	<file>sprites/Bridge.png</file>
+	<file>sprites/Enemies.png</file>
+	<file>sprites/PowerUps.png</file>
+	<file>sprites/FlashingElements.png</file>
+	<file>sprites/Explosions.png</file>
+	<file>sprites/Towers.png</file>
+	<file>sprites/Medals.png</file>
+	<file>sprites/GameOver.png</file>
+	<file>sprites/GameWin.png</file>
+	<file>sprites/FinalBoss.png</file>
+</qresource>
+</RCC>
